@@ -1,0 +1,2 @@
+Train hhh class sample.transport.vehicle.Train 10
+Train yy class sample.transport.vehicle.Train 10
